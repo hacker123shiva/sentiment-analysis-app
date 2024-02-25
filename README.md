@@ -6,3 +6,5 @@
 3. Flask Server to run ML model.
 4. NLP is used to preprocess sentiment.
 
+![index-page](image_url)
+![result-page](image_url)
