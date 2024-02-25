@@ -7,7 +7,9 @@
 4. NLP is used to preprocess sentiment.
 
 __Index-Page__
+<br/>
 ![index-page](./files/index-page.png)
+<br/>
 __Result-Page__
 ![result-page](./files/result-page.png)
 
